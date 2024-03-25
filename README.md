@@ -1,3 +1,3 @@
 AlfabankTests
 
-Bingo
+Bingo - Shmingo
